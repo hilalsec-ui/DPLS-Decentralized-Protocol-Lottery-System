@@ -1,13 +1,13 @@
 {
-  "name": "Decentralized Protocol Token",
-  "symbol": "DPT",
-  "description": "The official utility token for the Decentralized Fortress Lottery Protocol.",
-  "image": "https://raw.githubusercontent.com/hilalsec-ui/DPLS-Decentralized-Protocol-Lottery-System/main/DPT.png",
+  "name": "Fortress Protocol",
+  "symbol": "FPT",
+  "description": "The official utility token for the Fortress Protocol Lottery System.",
+  "image": "https://github.com/hilalsec-ui/DPLS-Decentralized-Protocol-Lottery-System/blob/main/icon%20fpt.png?raw=true",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/hilalsec-ui/DPLS-Decentralized-Protocol-Lottery-System/main/DPT.png",
+        "uri": "https://github.com/hilalsec-ui/DPLS-Decentralized-Protocol-Lottery-System/blob/main/icon%20fpt.png?raw=true",
         "type": "image/png"
       }
     ],
